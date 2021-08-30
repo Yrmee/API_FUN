@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(23, 52, 53);
+}
+
+img {
+    height: 150px;
+}
+
+.pokemon {
+    margin: 20px;
+    background-color: cornflowerblue;
+    border: 2px solid black;
+    width: 200px;
+    text-align: center;
+}
+
+button {
+    background-color: cornflowerblue;
+    margin-left: 100px;
+}
